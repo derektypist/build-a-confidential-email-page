@@ -7,6 +7,7 @@ body {
 
 #email {
   padding: 50px;
+  margin: 0 auto;
   margin-top: 50px;
   width: 500px;
   border: 2px solid black;
